@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Cara\Documents\COMPSCI\2_Software Engineering\SEWorkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\PySysInfo\com.python.pydev.analysis\v2_indexcache
+systeminfo.__init__|1485717990542551000|C:\Users\Cara\Documents\COMPSCI\2_Software Engineering\SEWorkspace\PySysInfo\systeminfo\__init__.py
+setup|1485780121184132000|C:\Users\Cara\Documents\COMPSCI\2_Software Engineering\SEWorkspace\PySysInfo\setup.py
+systeminfo.main|1485714022547950000|C:\Users\Cara\Documents\COMPSCI\2_Software Engineering\SEWorkspace\PySysInfo\systeminfo\main.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=systeminfo.main
+-- END DICTIONARY
+-- START TREE 1
+1
+mai|1|main!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

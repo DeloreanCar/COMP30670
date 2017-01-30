@@ -1,0 +1,13 @@
+from setuptools import setup
+from IPython.core.release import description, author_email
+
+setup(name="systeminfo",
+      version="0.1",
+      description="Basic system information for COMP30670",
+      url="",
+      author="Cara Delorey",
+      author_email="cara.delorey@ucdconnect.ie",
+      licence="GPL3",
+      packages=["systeminfo"],
+      entry_points={
+          'console_scripts':['comp30670_systeminfo]})
